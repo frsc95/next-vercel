@@ -1,0 +1,15 @@
+/* // los anchors (a) no los modifica
+{
+    margin-right: '10px';
+} */
+
+/* .nombreClase  */
+/* TipoElemento */
+.menu-container a{
+    margin-right: 10px;
+} 
+
+/* para cada item del navbar */
+.menu a {
+    margin-right: 10px;
+} 
